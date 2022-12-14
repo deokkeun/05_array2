@@ -9,9 +9,9 @@ public class PracticeRun {
 		//array.practice1();
 		//array.practice2();
 		//array.practice3();
-		array.practice4();
+		//array.practice4();
 		//array.practice5();
-		//array.practice6();
+		array.practice6();
 	
 	
 	
